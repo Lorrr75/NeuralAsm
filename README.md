@@ -73,6 +73,6 @@ Premi INVIO per uscire...
 
 ## Licenza
 
-Copyright (c) 2026 `<tuo nome>`
+Copyright (c) 2026 `Lorenzo Rosa`
 
-Distribuito con licenza **EUPL-1.2** (European Union Public Licence). Vedi il file `LICENSE`.
+Distribuito con licenza **EUPL-1.2** (European Union Public Licence). Vedi il file `LICENSE EUPL-1.2`.
