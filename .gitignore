@@ -1,0 +1,7 @@
+# File generati dalla compilazione
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.lst
+*.map
